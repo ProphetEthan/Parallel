@@ -1,0 +1,7 @@
+matrix_mult_pj/*.o
+quicksort
+matrix_mult_pj/*
+!*.cu
+!matrix_mult_pj/compile.sh
+!*.ipynb
+
